@@ -1,5 +1,5 @@
 - 👋🏽 Hi, I’m Cornelius
-- 👨🏽‍💻 I’m interested in full-stack and iOS and iOS development.
+- 👨🏽‍💻 I’m interested in full-stack and iOS development.
 - 🌱 I like learning new stuff and ever ready to grow!
 - 📫 You can reach me on oseiowusuboatengcornelius6@gmail.com
 
