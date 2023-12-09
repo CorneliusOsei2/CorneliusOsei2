@@ -1,6 +1,6 @@
 - 👋🏽 Hi, I’m Cornelius
 - 👨🏽‍💻 I’m interested in databases, algorithms, ML, full-stack and iOS development.
-- 🌱 I like learning new stuff and ever ready to grow!
+- 🌱 I like learning new stuff and love to build!
 - 📫 You can reach me on oseiowusuboatengcornelius6@gmail.com
 
 <!---
